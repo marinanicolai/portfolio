@@ -44,7 +44,7 @@
     "react-share": "^3.0.1",
     "react-three-fiber": "^2.4.3",
     "theme-ui": "^0.2.42",
-    "three": "^0.107.0",
+    "three": "^0.125.0",
     "typeface-ibm-plex-sans": "^0.0.75"
   },
   "devDependencies": {
